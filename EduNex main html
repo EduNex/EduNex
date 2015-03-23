@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<script src="http://www.parsecdn.com/js/parse-1.3.5.min.js"></script>
+
+<script> Parse.initialize("7HsHTdAQJpB0unlmo3lREMuKgje5vKld56HIIYar", "XA6e72dJKgNKFqAdMoF0UKHBwT8GpojdFsHwmqxh"); </script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel = "stylesheet" type = "text/css" href = "teenhack(main).css">
+<link href='http://fonts.googleapis.com/css?family=Megrim' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Poiret+One|Shadows+Into+Light' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Quicksand:300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Nixie+One|Quicksand:300' rel='stylesheet' type='text/css'>
+
+<title>
+</title>
+
+</head>
+	<body bgcolor = "silver<!DOCTYPE html>
+<html>
+
+<head>
+<link rel = "stylesheet" type = "text/css" href = "teenhack(main).css">
+<link href='http://fonts.googleapis.com/css?family=Poiret+One|Shadows+Into+Light' rel='stylesheet' type='text/css'>
+
+<title>
+</title>
+
+</head>
+	<body bgcolor = "silver !important">
+	
+	<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">EduNex</a>
+      
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">About <span class="sr-only">(current)</span></a></li>
+        <li><a href="signin.html">Login</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Features <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <!-- <form class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form> -->
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Get Started</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Learn More <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+	
+	
+	
+	
+	
+	<div class = "nav">
+	<div class = "container">
+	
+	<!-- <ul>
+		<li><font face = "arial">About</font></li>
+		<li><font face = "arial">Browse</font></li>
+	</ul>
+	
+	<ul>
+		<li><font face = "arial">Sign Up</font></li>
+		<li><font face = "arial">Log In</font></li>
+		<li><font face = "arial">Help</font></li>
+		
+		</div>
+		</div>  -->
+		
+		<!-- up to change -->
+	<div class = "jumbotron">
+	<div class = "container">
+		<h1><b>Get help when you need it.</b></h1>
+		<p><font face = "arial"><b>Stay organized, get help from teachers and receive advice from classmates.</b></font></p>
+		</div>
+		</div>
+		
+		
+		<div class = "learn more">
+		<div class = "container">
+		
+		<div>
+		<h3><font face = "arial">Students</font></h3>
+		<p><font face = "arial">Learn how to get your school using EduNex.</font></p>
+		<p><a href = "#"> <!-- link --> <font face = "arial">Get your school involved now.</font></a> </p>
+		</div>
+		
+		<div>
+		<h3><font face = "arial">Teachers</h3>
+		<p><font face = "arial">Teach and manage your students more efficiently than ever.</p>
+		<p><a href = "#"><font face = "arial">Learn more about teaching with EduNex.</font></a> </p>
+		</div>
+	
+		<div>
+		<h3><font face = "arial">About Us</h3>
+		<p><font face = "arial">Revolutionizing education and student time management.</font></p>
+		<p><a href = "#"><font face = "arial">How EduNex is making a significant impact on education.</font></a> </p>
+		</div>
+	
+		</div> 
+		</div>
+		
+		<h3><font face = "arial"> Our Sponsors</font></h3>
+		
+		<img src="meteor.png">
+		<img src="https://media.licdn.com/media/p/1/000/000/01c/09ad91e.png">
+		
+		<h3><font face = "arial"> Help me help you, and together we can build a better future!</face><h3>
+		<a href="http://whomentors.info/givepaypal"><img src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png" /></a>
+		
+	</body>
+</html>
